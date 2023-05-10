@@ -1,4 +1,4 @@
-package com.lucasilva.controllers;
+package com.lucasilva.dslist.controllers;
 
 import java.util.List;
 
